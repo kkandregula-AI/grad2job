@@ -1,34 +1,18 @@
 
-# AI CareerOS India
+# AI CareerOS Enterprise
 
-AI-powered career guidance platform for engineering students and graduates.
+## Features
+- Multi-Agent AI Orchestration
+- GPT/Claude/Gemini Routing
+- Voice Interview AI
+- ATS Resume Analyzer
+- Recruiter Marketplace
+- AI Mentor Avatars
+- WhatsApp Integration
+- College Dashboards
+- AI Coding Interviewer
+- Vector Database Memory
 
-## Included Features
-- PWA Support
-- AI Career Recommendation Engine
-- Resume Analyzer Architecture
-- Interview Chatbot Structure
-- Skill Gap Analysis
-- Internship Matching
-- Recruiter Dashboard
-- Gamified Learning
-- Live Industry Analytics
-- Token Optimization
-
-## Tech Stack
-Frontend:
-- React
-- Vite
-
-Backend:
-- FastAPI
-
-## Run Frontend
-cd frontend
-npm install
-npm run dev
-
-## Run Backend
-cd backend
-pip install -r requirements.txt
-uvicorn main:app --reload
+## Deployment
+Frontend: Vercel
+Backend: Railway/Render

@@ -1,7 +1,6 @@
 {
-  "name": "AI CareerOS India",
+  "name": "AI CareerOS Enterprise",
   "short_name": "CareerOS",
-  "start_url": ".",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#2563eb",
