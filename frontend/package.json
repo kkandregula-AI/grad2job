@@ -1,6 +1,5 @@
 {
-  "name": "ai-careeros-enterprise",
-  "version": "2.0.0",
+  "name": "ai-careeros",
   "private": true,
   "scripts": {
     "dev": "vite",
